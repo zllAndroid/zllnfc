@@ -3,7 +3,7 @@
 buildscript {
     
     repositories {
-//        google()
+//        google()   测试
         jcenter()
     }
     dependencies {
@@ -14,7 +14,6 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-
 allprojects {
     repositories {
 //        google()
